@@ -62,6 +62,7 @@ To run this site locally:
 ```bash
 bundle install
 bundle exec jekyll serve
+```
 Then visit:
 http://localhost:4000
 
