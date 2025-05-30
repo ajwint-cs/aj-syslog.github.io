@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ajwint-cs/ajwint-cs.github.io
+  repo: ajwint-cs/aj-syslog.github.io
   branch: development
 
 media_folder: "assets/img/uploads"
