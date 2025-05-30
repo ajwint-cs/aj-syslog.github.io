@@ -6,6 +6,8 @@ permalink: /contact/
 
 You can reach me at:
 
-- 📧 Email: [you@example.com](mailto:you@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
+- 📧 Email: [ajs.syslog@gmail.com
+](mailto:ajs.syslog@gmail.com
+)
+- 💼 LinkedIn: [linkedin.com/in/aj-in-cs/](https://www.linkedin.com/in/aj-in-cs/)
+- 💻 GitHub: [https://github.com/ajwint-cs](https://https://github.com/ajwint-cs)
