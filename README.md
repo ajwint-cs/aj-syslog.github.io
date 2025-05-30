@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9f18550-656f-443f-b4c4-bfa53ae9684e/deploy-status)](https://app.netlify.com/projects/ajsyslog/deploys)
+
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
