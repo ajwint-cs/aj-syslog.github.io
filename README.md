@@ -67,8 +67,15 @@ Then visit:
 http://localhost:4000
 
 
-## License
-This work is published under [MIT][mit] License.
+## 🧾 License for Site Content
+
+Unless otherwise noted, all original content (posts, images, etc.) on this blog is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Feel free to share or remix with attribution.
+
+## 🛠️ Theme License
+
+This site uses the [Chirpy Jekyll theme](https://github.com/cotes2020/jekyll-theme-chirpy), which is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 🙌 Acknowledgments
 Chirpy Jekyll Theme
