@@ -3,8 +3,8 @@ backend:
   repo: ajwint-cs/ajwint-cs.github.io
   branch: development
 
-media_folder: "assets/images"
-public_folder: "/assets/images"
+media_folder: "assets/img/uploads"
+public_folder: "/assets/img/uploads"
 
 collections:
   - name: "posts"
